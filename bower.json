@@ -1,0 +1,17 @@
+{
+  "name": "tiff.js",
+  "main": "tiff.js",
+  "homepage": "https://github.com/spsvn/tiff.js",
+  "authors": [
+    "seikichi[at]kmc.gr.jp"
+  ],
+  "description": "port of the LibTIFF by compiling the LibTIFF C code with Emscripten",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
